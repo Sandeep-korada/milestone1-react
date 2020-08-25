@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mathes Snapshot 1`] = `
+<div
+  className="center"
+>
+  <div
+    className="transbox"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <h2>
+        LOGIN
+      </h2>
+      <hr />
+      <h3>
+        Username
+      </h3>
+      <input
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Enter Username"
+        required={true}
+        type="text"
+      />
+      
+      <h3>
+        Password
+      </h3>
+      <input
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Enter Password"
+        required={true}
+        type="password"
+      />
+      
+      <br />
+      <br />
+      <button
+        type="submit"
+        value="Submit"
+      >
+        Submit
+      </button>
+    </form>
+  </div>
+</div>
+`;
+
+exports[`mathes Snapshots 1`] = `<signup />`;

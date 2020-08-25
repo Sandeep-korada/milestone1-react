@@ -1,0 +1,23 @@
+.navbarbg{
+    float:right;
+    text-align: center;
+    vertical-align: middle;
+    background-color: rgb(187, 25, 25);
+    width:100%;
+
+}
+ul,li,a{
+    display: inline;
+    text-decoration: red;
+    font-size: 15px;
+    color: white;
+        
+}
+.navpbg{
+font-size: 25px;
+float: left;
+}
+.rightbg{
+    margin-right: 2%;
+    float: right;
+}

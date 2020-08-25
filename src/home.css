@@ -1,0 +1,13 @@
+.btnbg{
+    color: darkblue;
+    float: right;
+}
+.search{
+    
+    width: 50%;
+     height: 40px;
+    margin-top: 2%;
+    color: black;
+    border: 1px solid;
+
+}

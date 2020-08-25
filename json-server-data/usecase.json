@@ -1,0 +1,240 @@
+{
+  "allproducts": [
+    {
+      "Product_name": "mobile1",
+      "Price": "50000",
+      "image": "mobile1.jpeg",
+      "Descrition": "fgvhbjn",
+      "Stock_available": "20",
+      "Product_category": "Electronics",
+      "id": 6
+    },
+    {
+      "Product_name": "park avenu",
+      "Price": "50",
+      "image": "perfume.png",
+      "Descrition": "Nice Perfume",
+      "Stock_available": "25",
+      "Product_category": "Perfumes",
+      "id": 7
+    },
+    {
+      "Product_name": "kakarkay",
+      "Price": "25",
+      "image": "tomato.jpg",
+      "Descrition": "gvhbjn",
+      "Stock_available": "25",
+      "Product_category": "Perfumes",
+      "id": 9
+    }
+  ],
+  "allusers": [
+    {
+      "name": "sandeep",
+      "emailid": "sandeep.korada@cognizant.com",
+      "username": "sandy",
+      "password": "sandy123",
+      "confirmpassword": "sandy123"
+    },
+    {
+      "id": 1,
+      "name": "sandeep",
+      "emailid": "sandeep.korada@cognizant.com",
+      "username": "sandy",
+      "password": "sandy123",
+      "confirmpassword": "sandy123"
+    },
+    {
+      "id": 10,
+      "name": "sandeep",
+      "emailid": "sandeep.korada@cognizant.com",
+      "username": "sandy",
+      "password": "sandy123",
+      "confirmpassword": "sandy123"
+    },
+    {
+      "name": "fcgh",
+      "emailid": "ftvgyb",
+      "username": "tfgybh",
+      "password": "sandy123",
+      "confirmpassword": "sandy123",
+      "id": 11
+    },
+    {
+      "name": "fgvb",
+      "emailid": "fvgh",
+      "username": "gh",
+      "password": "g",
+      "confirmpassword": "gv",
+      "id": 12
+    },
+    {
+      "name": "tfgybh",
+      "emailid": "rftvgb",
+      "username": "ftgybh",
+      "password": "ftrgyh",
+      "confirmpassword": "ftg",
+      "id": 13
+    },
+    {
+      "name": "vgbh",
+      "emailid": "gvbn",
+      "username": "gybhn",
+      "password": "ghj",
+      "confirmpassword": "ghj",
+      "id": 14
+    },
+    {
+      "name": "",
+      "emailid": "",
+      "username": "",
+      "password": "",
+      "confirmpassword": "",
+      "id": 15
+    },
+    {
+      "name": "sandeep",
+      "emailid": "koradasandeep91@gmail.com",
+      "username": "sandy1",
+      "password": "sandy143",
+      "confirmpassword": "sandy143",
+      "id": 16
+    },
+    {
+      "name": "ashok",
+      "emailid": "ghb",
+      "username": "gh",
+      "password": "123",
+      "confirmpassword": "123",
+      "id": 17
+    },
+    {
+      "name": "pavan",
+      "emailid": "pavan@gmail.com",
+      "username": "pavan",
+      "password": "pavan123",
+      "confirmpassword": "pavan123",
+      "id": 18
+    },
+    {
+      "name": "prafful",
+      "emailid": "prafful@gmail.com",
+      "username": "prafful",
+      "password": "prafful123",
+      "confirmpassword": "prafful123",
+      "id": 19
+    },
+    {
+      "name": "sandeep",
+      "emailid": "sandy@gmail.com",
+      "username": "sandy",
+      "password": "sandy",
+      "confirmpassword": "sandy",
+      "id": 20
+    },
+    {
+      "name": "ashok",
+      "emailid": "ashok@gmail.com",
+      "username": "ashok",
+      "password": "ashok123",
+      "confirmpassword": "ashok123",
+      "id": 21
+    },
+    {
+      "name": "sudha",
+      "emailid": "sudha@gmail.com",
+      "username": "sudha",
+      "password": "sudha123",
+      "confirmpassword": "sudha123",
+      "id": 22
+    },
+    {
+      "name": "venu",
+      "emailid": "venu@gmail.com",
+      "username": "venu",
+      "password": "venu123",
+      "confirmpassword": "venu123",
+      "id": 23
+    },
+    {
+      "name": "nagesh",
+      "emailid": "nagesh@gmail.com",
+      "username": "nagesh",
+      "password": "nagesh123",
+      "confirmpassword": "nagesh123",
+      "id": 24
+    },
+    {
+      "name": "",
+      "emailid": "",
+      "username": "",
+      "password": "",
+      "confirmpassword": "",
+      "id": 25
+    },
+    {
+      "name": "",
+      "emailid": "",
+      "username": "",
+      "password": "",
+      "confirmpassword": "",
+      "id": 26
+    },
+    {
+      "name": "aaa",
+      "emailid": "aaa@gmail.com",
+      "username": "aaa",
+      "password": "aaa123",
+      "confirmpassword": "aaa123",
+      "id": 27
+    },
+    {
+      "name": "bbb",
+      "emailid": "bbb@gmail.com",
+      "username": "bbb",
+      "password": "bbb123",
+      "confirmpassword": "bbb123",
+      "id": 28
+    },
+    {
+      "name": "kk",
+      "emailid": "kk@gmail.com",
+      "username": "kk",
+      "password": "kk123",
+      "confirmpassword": "kk123",
+      "id": 29
+    },
+    {
+      "name": "kk",
+      "emailid": "kk@gmail.com",
+      "username": "kk",
+      "password": "kk123",
+      "confirmpassword": "kk123",
+      "id": 30
+    },
+    {
+      "name": "",
+      "emailid": "gfvhbjnm",
+      "username": "",
+      "password": "gybhjn",
+      "confirmpassword": "vghbjn",
+      "id": 31
+    },
+    {
+      "name": "gv hbjk",
+      "emailid": "gbhjnm",
+      "username": "vgybhj",
+      "password": "sandy143",
+      "confirmpassword": "sandy143",
+      "id": 32
+    },
+    {
+      "name": "",
+      "emailid": "",
+      "username": "",
+      "password": "",
+      "confirmpassword": "",
+      "id": 33
+    }
+  ]
+}
